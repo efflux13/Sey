@@ -219,6 +219,11 @@
 .about-title {
   margin-bottom: 50px; }
 
+.s-1btn {
+  margin-top: 30px;
+  padding-right: 50px;
+  padding-left: 50px; }
+
 .info_s-1 {
   background: #ececec;
   padding-top: 50px; }
