@@ -265,7 +265,9 @@ box-shadow: 0px 0px 27px 0px rgba(0,0,0,0.75) !important;
 	width: 100%;
 	min-height: 70px;
 }
-
+.form-group{
+	margin-top: 15px;
+}
 @media screen and(max-width: 600px) {
 .psv-tech{
 	font-size: 30px;
@@ -291,6 +293,6 @@ box-shadow: 0px 0px 27px 0px rgba(0,0,0,0.75) !important;
 }
 .ft-1{
 	font-size: 16px;
-	justify-content: center;
+	justify-content: center !important;
 }
 }
