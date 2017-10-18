@@ -219,6 +219,10 @@
 .about-title {
   margin-bottom: 50px; }
 
+.info_s-1 {
+  background: #ececec;
+  padding-top: 50px; }
+
 .ul-about li {
   font-size: 22px;
   line-height: 40px; }
