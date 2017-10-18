@@ -191,7 +191,7 @@
 
 /*bist*/
 .bist {
-  background: url(../img/farm.png) no-repeat 50% 50%/cover;
+  background: url(../img/farm.png) no-repeat 50% 0%/cover;
   min-height: 700px;
   padding-bottom: 55px; }
 
@@ -306,4 +306,14 @@
     -webkit-box-pack: center !important;
     -webkit-justify-content: center !important;
     -ms-flex-pack: center !important;
-    justify-content: center !important; } }
+    justify-content: center !important; }
+  .cont-ttl {
+    font-size: 20px !important; } }
+
+@media screen and (max-width: 489px) {
+  .cont-ttl {
+    font-size: 16px !important;
+    line-height: 35px;
+    padding-left: 0 !important; }
+  .jjk {
+    font-size: 12px !important; } }
